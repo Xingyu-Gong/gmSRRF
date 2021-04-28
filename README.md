@@ -1,5 +1,5 @@
 # gmSRRF
-gmSRRF calculates reweighted sequence from gray tiff sequential images. it was written in MATLAB and provided in m format
+gmSRRF calculates reweighted sequence from gray tiff sequential images. it was written in MATLAB and provided in *.m format
 
 # Run gmSRRF
 gmSRRF is simply run in a MATLAB workspace. There are three files necessary for noamal use:
